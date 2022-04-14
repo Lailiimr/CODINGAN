@@ -1,2 +1,2 @@
 # Studi-Independent
-Hasil Pembelajaran Kelas JumaTec
+Hasil Codingan Pembelajaran Kelas (Individu dan Kelompok Gabungan)
